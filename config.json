@@ -1,7 +1,7 @@
 {
-  "TOKEN": "", //Token of your Bot
-  "CHANNEL": "", //Music Channel ID (The Channel where the Should Should Play the Music)
-  "SERVER": "", //Server ID (the Serever where you want to Play the Music in)
+  "TOKEN": "MTM3MDc3NDUwMDE0NDMyMDY1NA.G_oxI1.SHV3SYVMQ3vr8QXHHmx2IN9rJOvopuU-4RovAc", //Token of your Bot
+  "CHANNEL": "1335086274847047746", //Music Channel ID (The Channel where the Should Should Play the Music)
+  "SERVER": "1335086274259845152", //Server ID (the Serever where you want to Play the Music in)
   "STATUS": "NCS", //Status of the Bot
   "LIVE": "https://www.youtube.com/watch?v=kGKkUN50R0c" 
 }
